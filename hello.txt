@@ -11,20 +11,3 @@ hello atguigu!hello git
 
 abc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
